@@ -1,0 +1,11 @@
+nav {
+  background: linear-gradient(-225deg, #25CCF7, #3584a7 51%, #30d2be);
+  
+}
+.name {
+  font-family: "cursive";
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-weight: 400;
+  color: #ffff;
+}
